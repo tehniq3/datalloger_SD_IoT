@@ -7,6 +7,7 @@ and
 
 - https://nicuflorica.blogspot.com/2019/10/vizualizare-parametrii-panou-solar-pe.html
 
+article: https://nicuflorica.blogspot.com/2021/03/stocare-date-de-la-doi-senzori-dht-pe.html
 
 Thingspeak channel: https://thingspeak.com/channels/1321079
 
